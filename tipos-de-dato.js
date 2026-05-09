@@ -1,15 +1,15 @@
 // Tipos de datos
 
-boolean01 = true;
-boolean02 = false;
-null01 = null;
-number01 = 42;
-number02 = -666;
-number03 = 0;
-string01 = "Saluditos";
-string02 = "Veinticinco";
-string03 = "";
-undefined01 = undefined;
+let boolean01 = true;
+let boolean02 = false;
+let null01 = null;
+let number01 = 42;
+let number02 = -666;
+let number03 = 0;
+let string01 = "Saluditos";
+let string02 = "Veinticinco";
+let string03 = "";
+let undefined01 = undefined;
 
 console.log("El tipo de dato de " + boolean01 + " es: " + typeof boolean01);
 console.log("El tipo de dato de " + boolean02 + " es: " + typeof boolean02);
